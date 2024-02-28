@@ -272,7 +272,7 @@ body.menu-expanded button path {
   flex-direction: column;
   justify-content: center;
   gap: 6rem;
-  border: 1px solid var(--brand-light);]
+  border: 1px solid var(--brand-light);
   border-radius: 0.6rem;
 }
 #home .stat h3 {
